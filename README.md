@@ -1,5 +1,4 @@
-![header](img/!github-header-imagehttps://github.com/user-attachments/assets/3af5c27c-279b-4d4b-8e5c-d9a213aacf4f)
-
+![header](https://github.com/user-attachments/assets/3af5c27c-279b-4d4b-8e5c-d9a213aacf4f)
 - 👋 Hi, I’m @iqbalrizkiy-108
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
