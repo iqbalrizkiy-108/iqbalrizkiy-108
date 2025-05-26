@@ -8,7 +8,21 @@
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
+## play game🎮
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iqbalrizkiy-108/Iqbalrizkiy-108/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Iqbalrizkiy-108/Iqbalrizkiy-108/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Iqbalrizkiy-108/Iqbalrizkiy-108/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/Iqbalrizkiy-108/Iqbalrizkiy-108/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
