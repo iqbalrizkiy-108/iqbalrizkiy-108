@@ -10,22 +10,9 @@
 
 ## play game🎮
 
+<img src="https://raw.githubusercontent.com/iqbalrizkiy-108/iqbalrizkiy-108/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iqbalrizkiy-108/Iqbalrizkiy-108/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Iqbalrizkiy-108/Iqbalrizkiy-108/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Iqbalrizkiy-108/Iqbalrizkiy-108/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/Iqbalrizkiy-108/Iqbalrizkiy-108/output/snake.svg" alt="Snake animation" />
-
-###
-
-
 
 # thank you for
 
